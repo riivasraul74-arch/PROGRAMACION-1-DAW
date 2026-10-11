@@ -1,0 +1,16 @@
+﻿2edad: No válido. No puede empezar por un número.
+
+
+_curso: Válido. Puede empezar por guion bajo (aunque por convención se prefiere 
+
+
+empezar con minúscula).
+
+
+while: No válido. Es una palabra reservada en Java.
+
+
+Nombre: Válido. Funciona, pero para variables debería empezar en minúscula.
+
+
+precioTotal: Válido. Cumple perfectamente con las reglas y la convención.
